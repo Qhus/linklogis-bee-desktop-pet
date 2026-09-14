@@ -1,2 +1,5 @@
-# linklogis-bee-desktop-pet
-Unofficial internal-playtest builds of the Linklogis bee desktop pet.
+# 小蜜蜂桌宠发行包
+
+这里只存放 Windows 试玩发行包，不公开本地开发源码。
+
+本工具是个人内部试玩作品，不是公司官方发布物。请完整解压 ZIP 后运行，并仅使用本人有权配置的模型与知识库凭据。
